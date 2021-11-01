@@ -1,3 +1,8 @@
+# This is the null safety version of smooth_star_rating
+# All the credits go to the original authors,
+# You can find the original package here
+# https://pub.dev/packages/smooth_star_rating
+
 
 A Star rating with touch and swipe rate enabled
 * Supports replacing default star icons with desired IconData
