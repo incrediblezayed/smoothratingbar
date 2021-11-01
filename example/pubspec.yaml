@@ -24,7 +24,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  smooth_star_rating:
+  smooth_star_rating_null_safety:
     path: ../
 
 
