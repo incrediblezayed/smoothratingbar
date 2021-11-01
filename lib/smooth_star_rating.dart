@@ -1,4 +1,4 @@
-library smooth_star_rating;
+library smooth_star_rating_null_safety;
 
 import 'package:flutter/material.dart';
 
