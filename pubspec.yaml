@@ -1,7 +1,7 @@
 name: smooth_star_rating_null_safety
 description: A smooth rating bar
 version: 1.0.4+2
-homepage: https://github.com/thangmam/smoothratingbar.git
+homepage: https://github.com/incrediblezayed/smoothratingbar.git
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
