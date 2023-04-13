@@ -1,10 +1,13 @@
-# This is the null safety version of smooth_star_rating
-# All the credits go to the original authors,
-# You can find the original package here
-# https://pub.dev/packages/smooth_star_rating
+# smooth star rating null safety 
+
+[![pub package](https://img.shields.io/pub/v/smooth_star_rating_null_safety.svg)](https://pub.dev/packages/smooth_star_rating_null_safety)
+
+#### This is the null safety version of smooth_star_rating
+#### All the credits go to the original authors,
+#### You can find the original package [here](https://pub.dev/packages/smooth_star_rating)
 
 
-A Star rating with touch and swipe rate enabled
+## A Star rating with touch and swipe rate enabled
 * Supports replacing default star icons with desired IconData
 * Supports half rate and full rate (1.0 or 0.5)
 * Swipe for incrementing/decrementing rate amount
